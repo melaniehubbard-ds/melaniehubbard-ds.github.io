@@ -16,7 +16,7 @@ Related materials
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
-## Watts Collection 
+# Watts Collection 
 
 [![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
 
