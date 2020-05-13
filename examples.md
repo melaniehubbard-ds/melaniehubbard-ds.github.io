@@ -4,6 +4,7 @@ The following are examples of work I have done in the past, the intent being to 
 ## Mapping Parable of the Sower
 
 [![Knight Lab StoryMap](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
+[Mapping Parable of the Sower] (https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
 
 Written description
 
@@ -11,17 +12,47 @@ Related materials
 - [Project Guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Exercise](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf)
 
+
+## Watts Collection
+
+kdown
+[![Watts Collection](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Watts Collection")
+
+Written description
+
+Related materials
+- [link]( )
+- [link]()
 
 ## Example
 
-[![Knight Lab StoryMap](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
+Video
 
 Written description
 
 Related materials
-- [Project Guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
-- [Image Exercise](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf)
+- [link]( )
+- [link]()
 
+## Example
+
+Video
+
+Written description
+
+Related materials
+- [link]( )
+- [link]()
+
+## Example
+
+Video
+
+Written description
+
+Related materials
+- [link]( )
+- [link]()
 
 
 
