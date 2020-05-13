@@ -86,5 +86,16 @@ Related materials
 - [Project Guidelines](https://www.projectcora.org/assignment/archives-race-and-justice)
 - [Article submitted to The Journal of Interactive Technology and Pedagogy assignment section](https://drive.google.com/file/d/1xHCOy__5uW36XImtgbWu0BosvwNqM84u/view?usp=sharing)
 
+<[Return to TOC](#table-of-contents)
+
+## Hypertexts
+
+[![Hypertexts](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts")
+
+Written description..........................
+
+Related materials
+- item
+- item
 
 <[Return to TOC](#table-of-contents)
