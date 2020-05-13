@@ -5,7 +5,7 @@ The following are examples of work I have done in the past, the intent being to 
 
 CLASS PROJECTS<br>
 Below are a few projects I led classes through. (Also see, [ds.lmu.edu](https://ds.lmu.edu/))<br><br>
-*[Mapping Parable of the Sower](#mapping-parable-of-the-sower)*<br>_basic mapping, lower division English class, group work, visual component, close reading_<br><br>
+[*Mapping Parable of the Sower*](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br><br>
 [Watts Collection](#watts-collection)<br>
 TEXT<br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)<br>
