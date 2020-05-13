@@ -1,6 +1,8 @@
 # DS Pedagogy and Project Examples
 The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
 
+[Mapping Parable of the Sower](#Mapping-Parable-of-the-Sower)
+
 ## Mapping Parable of the Sower
 
 [![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
