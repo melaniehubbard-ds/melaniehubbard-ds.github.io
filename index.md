@@ -1,8 +1,10 @@
 # DS Pedagogy and Project Examples
 The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
 
+## Table of Contents
+
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower) {basic mapping, lower division English class, group work, visual component, close reading}<br>
-[Watts Collection](#watts-collection) 
+[Watts Collection](#watts-collection)<br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)
 
 ## Mapping Parable of the Sower
@@ -17,6 +19,8 @@ Related materials
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
+[Return to TOC] (#table-of-contents)
+
 ## Watts Collection
 
 [![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
@@ -29,6 +33,8 @@ Related materials
 - [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
 - [Related assignments](http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
 - [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
+
+
 
 ## The Shanghai Jewish Experience
 
