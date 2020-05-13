@@ -4,16 +4,16 @@ The following are examples of work I have done in the past, the intent being to 
 ## Table of Contents
 
 CLASS PROJECTS<br>
-Below are a few class projects...<br>
+Below are a few projects I led classes through. (Also see, [ds.lmu.edu](https://ds.lmu.edu/).<br>
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br><br>
 [Watts Collection](#watts-collection)<br>
-TEXT<br><br>
+TEXT<br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)<br>
-TEXT<br><br>
+TEXT<br>
 Econ GIS<br>
-TEXT<br><br>
+TEXT<br>
 [Archives, Race, and Justice](#archives-race-and-justice)<br>
-TEXT<br><br>
+TEXT<br>
 
 INSTRUCTION<br>
 Below are some instruction oriented examples...<br>
