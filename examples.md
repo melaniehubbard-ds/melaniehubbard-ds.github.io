@@ -73,7 +73,7 @@ Related materials
 
 ## Archives, Race, and Justice
 
-Video
+[![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
 
 Written description.......................
 
