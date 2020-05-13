@@ -1,8 +1,6 @@
 # DS Pedagogy and Project Examples
 The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKFaW0puXWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Mapping Parable of the Sower](#Mapping-Parable-of-the-Sower)<br>
 [Watts Collection](#Watts-Collection)
 
@@ -28,28 +26,29 @@ Written description.......................
 
 Related materials
 - [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
-- [Related assignments] (http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
+- [Related assignments](http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
 - [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
 
-## Example
+## The Shanghai Jewish Experience
 
-Video
+[![Shanghai Jewish Experience](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience")
 
-Written description
+[Shanghai Jewish Experience project](https://ds.lmu.edu/shanghai-project/)
+
+Written description..........................
 
 Related materials
-- [link]( )
-- [link]()
+- [Assignments](http://dh.lmu.edu/wp-content/uploads/2015/05/LMU_JewishStudies434_ShanghaiProject.pdf )
+- [Student blog](http://literatureoftheholoaust2015.tumblr.com/)
 
-## Example
+## Econ GIS Class -RENAME
 
-Video
+[![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
 
 Written description.......................
 
 Related materials
-- [link]( )
-- [link]()
+- [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
 ## Example
 
