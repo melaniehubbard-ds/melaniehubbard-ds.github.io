@@ -14,8 +14,7 @@ Written description.......................
 
 Related materials
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
-- <a href="http://example.com/" target="_blank">Image exercise</a>
-
+- <a href="http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf" target="_blank">Image exercise</a>  
 
 ## Watts Collection 
 
