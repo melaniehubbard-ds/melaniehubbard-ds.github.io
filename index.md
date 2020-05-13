@@ -44,7 +44,7 @@ Related materials
 - [Related assignments](http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
 - [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
 
-->[Return to TOC](#table-of-contents)
+<-[Return to TOC](#table-of-contents)
 
 ## The Shanghai Jewish Experience
 
@@ -58,7 +58,7 @@ Related materials
 - [Assignments](http://dh.lmu.edu/wp-content/uploads/2015/05/LMU_JewishStudies434_ShanghaiProject.pdf )
 - [Student blog](http://literatureoftheholoaust2015.tumblr.com/)
 
-->[Return to TOC](#table-of-contents)
+<-[Return to TOC](#table-of-contents)
 
 ## Econ GIS Class -RENAME
 
@@ -69,7 +69,7 @@ Written description.......................
 Related materials
 - [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
-->[Return to TOC](#table-of-contents)
+<-[Return to TOC](#table-of-contents)
 
 ## Archives, Race, and Justice
 
@@ -80,3 +80,5 @@ Written description.......................
 Related materials
 - [link]( )
 - [link]()
+
+<-[Return to TOC](#table-of-contents)
