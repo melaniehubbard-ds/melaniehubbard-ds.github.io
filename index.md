@@ -3,13 +3,19 @@ The following are examples of work I have done in the past, the intent being to 
 
 ## Table of Contents
 
-[Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br>
+[Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br><br>
 [Watts Collection](#watts-collection)<br>
-TEXT<br>
+TEXT<br><br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)<br>
-TEXT<br>
+TEXT<br><br>
 Econ GIS<br>
-TEXT<br>
+TEXT<br><br>
+[Archives, Race, and Justice](#archives-race-and-justice<br>
+TEXT<br><br>
+Example<br>
+TEXT<br><br>
+Example<br>
+TEXT<br><br>
 
 ## Mapping Parable of the Sower
 
@@ -65,7 +71,7 @@ Related materials
 
 ->[Return to TOC](#table-of-contents)
 
-## Example
+## Archives, Race, and Justice
 
 Video
 
