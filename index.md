@@ -10,7 +10,7 @@ TEXT<br><br>
 TEXT<br><br>
 Econ GIS<br>
 TEXT<br><br>
-[Archives, Race, and Justice](#archives-race-and-justice<br>
+[Archives, Race, and Justice](#archives-race-and-justice)<br>
 TEXT<br><br>
 Example<br>
 TEXT<br><br>
