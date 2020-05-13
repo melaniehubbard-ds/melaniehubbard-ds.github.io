@@ -5,24 +5,27 @@ The following are examples of work I have done in the past, the intent being to 
 
 [![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
 
-[Mapping Parable of the Sower](https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
+[Mapping Parable of the Sower project](https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
 
 Written description.......................
 
 Related materials
-- [Project Guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
-- [Image Exercise](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf)
+- [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
+- [Image exercise](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf)
 
 
 ## Watts Collection
 
 [![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
 
+[Watts Collection project](http://watts.library.lmu.build/)
+
 Written description.......................
 
 Related materials
-- [link]( )
-- [link]()
+- [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
+- [Related assignments] (http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
+- [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
 
 ## Example
 
