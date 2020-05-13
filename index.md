@@ -34,7 +34,7 @@ Related materials
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
-  <[Return to TOC](#table-of-contents)
+ <font size="1"><[Return to TOC](#table-of-contents)</font>
 
 ## Watts Collection
 
