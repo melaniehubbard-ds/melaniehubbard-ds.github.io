@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# DS Pedagogy and Project Examples
+The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
 
-You can use the [editor on GitHub](https://github.com/melaniehubbard-ds/melaniehubbard-ds.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Mapping Parable of the Sower
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
 
-### Markdown
+[Mapping Parable of the Sower project](https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Written description.......................
 
-```markdown
-Syntax highlighted code block
+Related materials
+- [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
+- [Image exercise](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Watts Collection 
 
-1. Numbered
-2. List
+[![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
 
-**Bold** and _Italic_ and `Code` text
+[Watts Collection project](http://watts.library.lmu.build/)
 
-[Link](url) and ![Image](src)
-```
+Written description.......................
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Related materials
+- [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
+- [Related assignments] (http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
+- [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
 
-### Jekyll Themes
+## Example
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melaniehubbard-ds/melaniehubbard-ds.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Video
 
-### Support or Contact
+Written description
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Related materials
+- [link]( )
+- [link]()
+
+## Example
+
+Video
+
+Written description.......................
+
+Related materials
+- [link]( )
+- [link]()
+
+## Example
+
+Video
+
+Written description.......................
+
+Related materials
+- [link]( )
+- [link]()
