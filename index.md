@@ -46,7 +46,6 @@ Written description.......................
 <[Return to TOC](#table-of-contents)
 
 ## The Shanghai Jewish Experience
-
 [![Shanghai Jewish Experience](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience")
 
 Written description..........................
@@ -58,7 +57,6 @@ Written description..........................
 <[Return to TOC](#table-of-contents)
 
 ## Econ GIS Class -RENAME
-
 [![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
 
 Written description.......................
@@ -68,17 +66,17 @@ Written description.......................
 <[Return to TOC](#table-of-contents)
 
 ## Archives, Race, and Justice
+[![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
 
 Written description.......................
 
-- [![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
+-Project
 - [Project Guidelines](https://www.projectcora.org/assignment/archives-race-and-justice)
 - [Article submitted to The Journal of Interactive Technology and Pedagogy assignment section](https://drive.google.com/file/d/1xHCOy__5uW36XImtgbWu0BosvwNqM84u/view?usp=sharing)
 
 <[Return to TOC](#table-of-contents)
 
 ## Hypertexts
-
 [![Hypertexts](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts")
 
 Written description..........................
