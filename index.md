@@ -18,7 +18,7 @@ Below are a few examples that explain more about my instruction.<br><br>
 Econ GIS<br>
 TEXT<br>
 Hypertexts<br>
-TEXT<br><br>
+TEXT<br>
 DH and the Athropocene<br>
 TEXT<br><br>
 
