@@ -1,10 +1,10 @@
 # DS Pedagogy and Project Examples
-The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
+The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex. Some of the assignments I have designed or codesigned with faculty can be found in [Project CORA](https://www.projectcora.org/users/melanie-hubbard).  
 
 ## Table of Contents
 
 CLASS PROJECTS<br>
-Below are a few class projects...
+Below are a few class projects...<br>
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br><br>
 [Watts Collection](#watts-collection)<br>
 TEXT<br><br>
@@ -16,7 +16,7 @@ TEXT<br><br>
 TEXT<br><br>
 
 INSTRUCTION<br>
-Below are some instruction oriented examples
+Below are some instruction oriented examples...<br>
 Example<br>
 TEXT<br><br>
 Example<br>
