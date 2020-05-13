@@ -4,7 +4,7 @@ The following are examples of work I have done in the past, the intent being to 
 ## Table of Contents
 
 CLASS PROJECTS<br>
-Below are a few projects I led classes through. (Also see, [ds.lmu.edu](https://ds.lmu.edu/).<br>
+Below are a few projects I led classes through. (Also see, [ds.lmu.edu](https://ds.lmu.edu/))<br><br>
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br><br>
 [Watts Collection](#watts-collection)<br>
 TEXT<br>
@@ -16,7 +16,7 @@ TEXT<br>
 TEXT<br>
 
 INSTRUCTION<br>
-Below are some instruction oriented examples...<br>
+Below are a few examples that explain more about my instruction.<br>
 Example<br>
 TEXT<br><br>
 Example<br>
