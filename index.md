@@ -2,7 +2,7 @@
 The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
 
 [Mapping Parable of the Sower](#-Mapping-Parable-of-the-Sower) {mapping, lower division English class, group work, visual component, close reading}<br>
-[Watts Collection](##Watts-Collection)
+[Watts Collection](#-Watts-Collection)
 
 ## Mapping Parable of the Sower
 
