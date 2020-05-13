@@ -23,28 +23,22 @@ DH and the Athropocene<br>
 TEXT<br><br>
 
 ## Mapping Parable of the Sower
-
 [![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
-
-[Mapping Parable of the Sower project](https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
 
 Written description.......................
 
-**Related materials**
+- [Mapping Parable of the Sower project](https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
 <[Return to TOC](#table-of-contents)
 
 ## Watts Collection
-
 [![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
-
-[Watts Collection project](http://watts.library.lmu.build/)
 
 Written description.......................
 
-**Related materials**
+- [Watts Collection project](http://watts.library.lmu.build/)
 - [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
 - [Related assignments](http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
 - [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
@@ -55,11 +49,9 @@ Written description.......................
 
 [![Shanghai Jewish Experience](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience")
 
-[Shanghai Jewish Experience project](https://ds.lmu.edu/shanghai-project/)
-
 Written description..........................
 
-**Related materials**
+- [Shanghai Jewish Experience project](https://ds.lmu.edu/shanghai-project/)
 - [Assignments](http://dh.lmu.edu/wp-content/uploads/2015/05/LMU_JewishStudies434_ShanghaiProject.pdf )
 - [Student blog](http://literatureoftheholoaust2015.tumblr.com/)
 
@@ -71,18 +63,15 @@ Written description..........................
 
 Written description.......................
 
-**Related materials**
 - [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
 <[Return to TOC](#table-of-contents)
 
 ## Archives, Race, and Justice
 
-[![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
-
 Written description.......................
 
-**Related materials**
+- [![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
 - [Project Guidelines](https://www.projectcora.org/assignment/archives-race-and-justice)
 - [Article submitted to The Journal of Interactive Technology and Pedagogy assignment section](https://drive.google.com/file/d/1xHCOy__5uW36XImtgbWu0BosvwNqM84u/view?usp=sharing)
 
@@ -94,7 +83,6 @@ Written description.......................
 
 Written description..........................
 
-**Related materials**
 - item
 - item
 
@@ -104,10 +92,8 @@ Written description..........................
 
 video
 
-
 Written description..........................
 
-**Related materials**
 - item
 - item
 
