@@ -1,8 +1,8 @@
 # DS Pedagogy and Project Examples
 The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex.
 
-[Mapping Parable of the Sower](#-Mapping-Parable-of-the-Sower) {mapping, lower division English class, group work, visual component, close reading}<br>
-[Watts Collection](#-Watts-Collection)
+[Mapping Parable of the Sower](#-Mapping-Parable-of-the-Sower) {basic mapping, lower division English class, group work, visual component, close reading}<br>
+[Watts Collection](##-Watts-Collection)
 
 ## Mapping Parable of the Sower
 
@@ -16,7 +16,7 @@ Related materials
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
-# Watts Collection 
+## Watts Collection 
 
 [![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
 
