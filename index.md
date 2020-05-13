@@ -3,6 +3,7 @@ The following are examples of work I have done in the past, the intent being to 
 
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower) {basic mapping, lower division English class, group work, visual component, close reading}<br>
 [Watts Collection](#watts-collection) 
+[The Shanghai Jewish Experience](#the-shanghai-jewish-experience)
 
 ## Mapping Parable of the Sower
 
