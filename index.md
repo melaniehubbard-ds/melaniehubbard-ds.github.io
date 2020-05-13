@@ -30,11 +30,11 @@ TEXT<br><br>
 
 Written description.......................
 
-Related materials
+**Related materials**
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
- <font size="1"><[Return to TOC](#table-of-contents)</font>
+<[Return to TOC](#table-of-contents)
 
 ## Watts Collection
 
@@ -44,7 +44,7 @@ Related materials
 
 Written description.......................
 
-Related materials
+**Related materials**
 - [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
 - [Related assignments](http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
 - [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
@@ -59,7 +59,7 @@ Related materials
 
 Written description..........................
 
-Related materials
+**Related materials**
 - [Assignments](http://dh.lmu.edu/wp-content/uploads/2015/05/LMU_JewishStudies434_ShanghaiProject.pdf )
 - [Student blog](http://literatureoftheholoaust2015.tumblr.com/)
 
@@ -71,7 +71,7 @@ Related materials
 
 Written description.......................
 
-Related materials
+**Related materials**
 - [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
 <[Return to TOC](#table-of-contents)
@@ -82,7 +82,7 @@ Related materials
 
 Written description.......................
 
-Related materials
+**Related materials**
 - [Project Guidelines](https://www.projectcora.org/assignment/archives-race-and-justice)
 - [Article submitted to The Journal of Interactive Technology and Pedagogy assignment section](https://drive.google.com/file/d/1xHCOy__5uW36XImtgbWu0BosvwNqM84u/view?usp=sharing)
 
@@ -94,7 +94,7 @@ Related materials
 
 Written description..........................
 
-Related materials
+**Related materials**
 - item
 - item
 
@@ -107,7 +107,7 @@ video
 
 Written description..........................
 
-Related materials
+**Related materials**
 - item
 - item
 
