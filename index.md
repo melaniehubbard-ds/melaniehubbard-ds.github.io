@@ -14,7 +14,7 @@ The following are examples of work I have done in the past, the intent being to 
 - [Econiomic Geography](#economic-geography)<br>
 {GIS based class instruction, upper division undergrad, Econonmics}<br>
 - [DH and the Athropocene](#dh-and-the-anthropocene)<br>
-{DH concepts, methods and tools instruction, graduate and upper divison undergrads, English}<br>
+{DH instruction (text analysis, GIS, data structuring, network analysis) graduate and upper divison undergrads, English}<br>
 - [Hypertext Creation](#hypertext-creation)<br>
 {hypertext creation instruction, multiple diciplines and levels}<br><br>
 
