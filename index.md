@@ -24,7 +24,7 @@ The purpose of this resource is to help us have conversations about the kind of 
 [![Parable of the Sower project](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Parable of the Sower project video")<br>
 {class project, basic mapping, lower division undergrads, English}
 
-This basic mapping project used Knightlab's StoryMap. The class worked together on one map to chart and describe the main character's journey across California. There was a significant visual component, and the process of creating the project forced students to read the text much more closely. 
+This basic mapping project used Knightlab's StoryMap. The class worked together on one map to chart and describe the main character's journey up California. There was a significant visual component, and the process of creating the project forced students to conduct a close reading of the text.
 
 - [Mapping Parable of the Sower project](https://uploads.knightlab.com/storymapjs/17d4e3ebc9ba6280b11694156ede825d/parable-of-the-sower-section-01-02/index.html)
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
