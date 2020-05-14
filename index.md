@@ -5,9 +5,9 @@ The following are examples of work I have done in the past, the intent being to 
 
 **Class Projects**<br>
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>
-  basic mapping, class wide project, lower division undergrads<br>
+{basic mapping, class wide project, lower division undergrads}<br>
 [Watts Collection](#watts-collection)<br>
-  _digital collections, group projects, first year graduates, English_<br>
+{digital collections, group projects, first year graduates, English}<br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)<br>
   _digital collections, group projects, upper division undergrads, English/Jewish Studies_<br>
 [Archives, Race, and Justice](#archives-race-and-justice)<br>
