@@ -81,7 +81,7 @@ Written description..........................
 - item
 - item
 
-> [Return to TOC](#table-of-contents)
+< [Return to TOC](#table-of-contents)
 
 
 ## Hypertext Creation
@@ -91,4 +91,4 @@ Written description..........................
 
 - item
 - item
-> [Return to TOC](#table-of-contents)
+< [Return to TOC](#table-of-contents)
