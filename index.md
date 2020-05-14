@@ -27,7 +27,7 @@ Written description.......................group work, visual component, close re
 - [Project guidelines](http://ds.lmu.edu/wp-content/uploads/2018/07/ParableOfTheSowerAssignment.pdf)
 - [Image Assignment](http://ds.lmu.edu/wp-content/uploads/2018/07/VisualImageExercise_LMU_ENGL2297.pdf) 
 
-<[Return to TOC](#table-of-contents)
+:arrow_up:[Return to TOC](#table-of-contents)
 
 ## Watts Collection
 [![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
@@ -39,7 +39,7 @@ Written description.......................
 - [Related assignments](http://watts.library.lmu.build/cms/files/original/f271621385be8d50c5d900ce68d31077.pdf)
 - [Book chapter about the class and project](https://digitalcommons.lmu.edu/librarian_pubs/93/)
 
-<[Return to TOC](#table-of-contents)
+:arrow_up:[Return to TOC](#table-of-contents)
 
 ## The Shanghai Jewish Experience
 [![Shanghai Jewish Experience](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience")
@@ -50,7 +50,7 @@ Written description..........................
 - [Assignments](http://dh.lmu.edu/wp-content/uploads/2015/05/LMU_JewishStudies434_ShanghaiProject.pdf )
 - [Student blog](http://literatureoftheholoaust2015.tumblr.com/)
 
-<[Return to TOC](#table-of-contents)
+:arrow_up:[Return to TOC](#table-of-contents)
 
 ## Archives, Race, and Justice
 [![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
@@ -61,7 +61,7 @@ Written description.......................
 - [Project Guidelines](https://www.projectcora.org/assignment/archives-race-and-justice)
 - [Article submitted to The Journal of Interactive Technology and Pedagogy assignment section](https://drive.google.com/file/d/1xHCOy__5uW36XImtgbWu0BosvwNqM84u/view?usp=sharing)
 
-<[Return to TOC](#table-of-contents)
+:arrow_up:[Return to TOC](#table-of-contents)
 
 ## Economic Geography
 [![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
@@ -70,7 +70,7 @@ Written description.......................
 
 - [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
-<[Return to TOC](#table-of-contents)
+:arrow_up:[Return to TOC](#table-of-contents)
 
 ## DH and the Anthropocene
 
@@ -81,7 +81,7 @@ Written description..........................
 - item
 - item
 
-<[Return to TOC](#table-of-contents)
+:arrow_up:[Return to TOC](#table-of-contents)
 
 
 ## Hypertext Creation
@@ -92,4 +92,4 @@ Written description..........................
 - item
 - item
 
-<[Return to TOC](#table-of-contents) 
+:arrow_up:[Return to TOC](#table-of-contents) 
