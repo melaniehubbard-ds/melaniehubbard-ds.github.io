@@ -1,7 +1,7 @@
 # DS Instruction and Project Examples
 The following are examples of work I have done in the past. I have categorized them as either class projects, meaning DS projects I have led classes through, or instruction, which is a broader category that gets into specific instruction methods and sessions. While the majority of the examples below are discipline-specific, most of them, if not all, can be translated into other disciplines. 
 
-The purpose of this resource is to help us have conversations about the kind of work in which you or the faculty you work with might be interested. I made accompanying (rambling) videos to provide more context. Other examples of my work are in [Project CORA](https://www.projectcora.org/users/melanie-hubbard), an assignment repository, and on [ds.lmu.edu](https://ds.lmu.edu/) (Everything under "projects" I worked on. Some of them are quite old and much less impressive.)
+The purpose of this resource is to help us have conversations about the kind of work in which you or the faculty you work with might be interested. I made accompanying (rambling) videos to provide more context. Other examples of my work are in [Project CORA](https://www.projectcora.org/users/melanie-hubbard), an assignment repository, and on [ds.lmu.edu](https://ds.lmu.edu/). (Everything under "projects" I worked on. Some of them are quite old and much less impressive.)
 
 ## Table of Contents
 
