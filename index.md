@@ -19,7 +19,7 @@ The following are examples of work I have done in the past, the intent being to 
 {hypertext creation instruction, multiple levels and diciplines}<br><br>
 
 ## Mapping Parable of the Sower
-[![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
+[![Parable of the Sower project](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Parable of the Sower project video")
 
 Written description.......................group work, visual component, close reading
 
@@ -30,7 +30,7 @@ Written description.......................group work, visual component, close re
 < [Return to TOC](#table-of-contents)
 
 ## Watts Collection
-[![Watts Collection](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection")
+[![Watts Collection project](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection project video")
 
 Written description.......................
 
@@ -42,7 +42,7 @@ Written description.......................
 < [Return to TOC](#table-of-contents)
 
 ## The Shanghai Jewish Experience
-[![Shanghai Jewish Experience](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience")
+[![Shanghai Jewish Experience project](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience assignment video")
 
 Written description..........................
 
@@ -53,7 +53,7 @@ Written description..........................
 < [Return to TOC](#table-of-contents)
 
 ## Archives, Race, and Justice
-[![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
+[![Archives, Race, and Justice project](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice project video")
 
 Written description.......................
 
@@ -64,7 +64,7 @@ Written description.......................
 < [Return to TOC](#table-of-contents)
 
 ## Economic Geography
-[![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
+[![Economic Geography class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Economic Geography class instrution video")
 
 Written description.......................
 
@@ -74,18 +74,18 @@ Written description.......................
 
 ## DH and the Anthropocene
 
-video
+[![DH and the Anthropocene](http://img.youtube.com/vi/y3yrxequoYE/0.jpg)](http://www.youtube.com/watch?v=y3yrxequoYE "DH and the Anthropocene instruction video")
 
 Written description..........................
 
-- item
-- item
+- [Class website)(https://dh-anthropocene.english.lmu.build/)
+- [Syllabus[(https://dh-anthropocene.english.lmu.build/wp-content/uploads/2019/03/ENGL5998-DH-S19-update10.pdf)
 
 < [Return to TOC](#table-of-contents)
 
 
 ## Hypertext Creation
-[![Hypertexts](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts")
+[![Hypertext creation](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts creation instruction video")
 
 Written description..........................
 
