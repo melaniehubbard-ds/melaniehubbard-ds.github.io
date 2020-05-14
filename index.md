@@ -61,7 +61,7 @@ Written description.......................
 - [Project Guidelines](https://www.projectcora.org/assignment/archives-race-and-justice)
 - [Article submitted to The Journal of Interactive Technology and Pedagogy assignment section](https://drive.google.com/file/d/1xHCOy__5uW36XImtgbWu0BosvwNqM84u/view?usp=sharing)
 
-:arrow_up:[Return to TOC](#table-of-contents)
+:arrow_up: [Return to TOC](#table-of-contents)
 
 ## Economic Geography
 [![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
@@ -70,7 +70,7 @@ Written description.......................
 
 - [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
-:arrow_up:[Return to TOC](#table-of-contents)
+:arrow_up: [Return to TOC](#table-of-contents)
 
 ## DH and the Anthropocene
 
@@ -81,7 +81,7 @@ Written description..........................
 - item
 - item
 
-:arrow_up:[Return to TOC](#table-of-contents)
+:arrow_up: [Return to TOC](#table-of-contents)
 
 
 ## Hypertext Creation
@@ -92,4 +92,4 @@ Written description..........................
 - item
 - item
 
-:arrow_up:[Return to TOC](#table-of-contents) 
+:arrow_up: [Return to TOC](#table-of-contents)
