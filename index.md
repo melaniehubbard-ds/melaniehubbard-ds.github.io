@@ -11,11 +11,11 @@ The following are examples of work I have done in the past, the intent being to 
 {class project, digital collections, upper division undergrads, English/Jewish Studies}<br>
 - [Archives, Race, and Justice](#archives-race-and-justice)<br>
 {class project, digital storytelling and archives, gfirst year graduates, English}<br>
-- Econiomic Geography <br>
+- [Econiomic Geography](#economic-geography)<br>
 {GIS based class instruction, upper division undergrad, Econonmics}<br>
-- DH and the Athropocene<br>
+- [DH and the Athropocene](#dh-and-the-anthropocene)<br>
 {DH concepts, methods and tools instruction, graduate and upper divison undergrads, English}<br>
-- Hypertext Creation<br>
+- [Hypertext Creation](#hypertext-creation)<br>
 {hypertext creation instruction, multiple diciplines and levels}<br><br>
 
 ## Mapping Parable of the Sower
