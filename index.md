@@ -36,7 +36,7 @@ This basic mapping project used Knightlab's StoryMap. The class worked together 
 [![Watts Collection project](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection project video")<br>
 {class project, digital collections, first year graduates, English}
 
-This project involved creating a digital collection using materials from the Southern California Library, a community archive in South Los Angeles. The most significant technical aspect was metadata creation. The library's director, Yusef Omawale, asked that the metadata be for the community and not academics. We used literature, meeting with people at the library, and class speakers to help prepare the students for the process.
+This project involved creating a digital collection using materials from the Southern California Library, a community archive in South Los Angeles. The most significant technical and intellectual aspect was metadata creation. The library's director, Yusef Omawale, asked that the metadata be for the community and not academics. We used literature, meeting with people at the library, and class speakers to help prepare the students for the process.
 
 - [Watts Collection project](http://watts.library.lmu.build/)
 - [Class syllabus](http://watts.library.lmu.build/cms/files/original/502caf42bce9d0f2a691fc430898f5ac.pdf)
