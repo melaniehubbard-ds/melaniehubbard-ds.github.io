@@ -1,10 +1,9 @@
-# DS Pedagogy and Project Examples
-The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex. Some of the assignments I have designed or codesigned with faculty can be found in [Project CORA](https://www.projectcora.org/users/melanie-hubbard).  
+# DS Instruction and Project Examples
+The following are examples of work I have done in the past, the intent being to help us have conversations about this kind of work and to possibly inspire new assignments, workshops, projects, etc. Many of the examples have an accompanying video that provide more contex. Some of the assignments I have designed or codesigned with faculty can be found in [Project CORA](https://www.projectcora.org/users/melanie-hubbard). More projects can be found at [ds.lmu.edu](https://ds.lmu.edu/).
 
 ## Table of Contents
 
-**Class Projects** -
-Below are a few projects I led classes through. (Also see, [ds.lmu.edu](https://ds.lmu.edu/))<br><br>
+**Class Projects**<br>
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, lower division English class, group work, visual component, close reading_<br>
 [Watts Collection](#watts-collection)<br>
 TEXT<br>
@@ -13,8 +12,7 @@ TEXT<br>
 [Archives, Race, and Justice](#archives-race-and-justice)<br>
 TEXT<br>
 
-**Instruction** -
-Below are a few examples that explain more about my instruction.<br><br>
+**Instruction**<br>
 Econ GIS<br>
 TEXT<br>
 Hypertexts<br>
