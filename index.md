@@ -49,7 +49,7 @@ This project involved creating a digital collection using materials from the Sou
 [![Shanghai Jewish Experience project](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience assignment video")<br>
 {class project, digital collections, upper division undergrads, English/Jewish Studies}
 
-This project involved students using LMU's Werner von Boltenstern Shanghai Photograph and Negative Collection to create digital resources that bring light to the life of Jewish refugees in 1930s-1940s Shanghai. The technology aspect was relatively simple to give students plenty of time to conduct extensive the research that was required. 
+This project involved students using LMU's _Werner von Boltenstern Shanghai Photograph and Negative Collection_ to create digital resources that bring light to the lives of Jewish refugees in 1930s-1940s Shanghai. The technology aspect was relatively simple to give students plenty of time to conduct the extensive research that was required. 
 
 - [Shanghai Jewish Experience project](https://ds.lmu.edu/shanghai-project/)
 - [Assignments](http://dh.lmu.edu/wp-content/uploads/2015/05/LMU_JewishStudies434_ShanghaiProject.pdf )
@@ -73,7 +73,7 @@ This project was created for the Southern California Library, a community archiv
 [![Economic Geography class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Economic Geography class instrution video")<br>
 {GIS class instruction, upper division undergrad, Econonmics}
 
-Economic Geography was a class I took over when a professor had to go on sick leave. In the video, I explain how I dealt with the situation and the final project I designed.
+Economic Geography was a class I took over when a professor went on sick leave. In the video, I explain how I dealt with the situation and the final project I designed.
 
 - [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
 
