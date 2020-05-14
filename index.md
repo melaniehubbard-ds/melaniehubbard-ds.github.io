@@ -52,15 +52,6 @@ Written description..........................
 
 <[Return to TOC](#table-of-contents)
 
-## Econ GIS Class -RENAME
-[![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
-
-Written description.......................
-
-- [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
-
-<[Return to TOC](#table-of-contents)
-
 ## Archives, Race, and Justice
 [![Archives, Race, and Justice](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice")
 
@@ -72,8 +63,18 @@ Written description.......................
 
 <[Return to TOC](#table-of-contents)
 
-## Hypertexts
-[![Hypertexts](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts")
+## Econiomic Geography
+[![Econ GIS Class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Econ GIS Class")
+
+Written description.......................
+
+- [Final projects assignment](https://drive.google.com/file/d/1caaYYYQl0cdwezbYwpAyjvRVDB5Y4DiK/view?usp=sharing)
+
+<[Return to TOC](#table-of-contents)
+
+## DH and the Athropocene
+
+video
 
 Written description..........................
 
@@ -82,9 +83,9 @@ Written description..........................
 
 <[Return to TOC](#table-of-contents)
 
-## DH and the Athropocene
 
-video
+## Hypertext Creation
+[![Hypertexts](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts")
 
 Written description..........................
 
