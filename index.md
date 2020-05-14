@@ -4,21 +4,22 @@ The following are examples of work I have done in the past, the intent being to 
 ## Table of Contents
 
 **Class Projects**<br>
-[Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>_basic mapping, class wide project, lower division undergrads_<br>
+[Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>
+  _basic mapping, class wide project, lower division undergrads_<br>
 [Watts Collection](#watts-collection)<br>
-_digital collections, group projects, first year graduates, English<br>
+  _digital collections, group projects, first year graduates, English_<br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)<br>
-_digital collections, group projects, upper division undergrads, English/Jewish Studies_<br>
+  _digital collections, group projects, upper division undergrads, English/Jewish Studies_<br>
 [Archives, Race, and Justice](#archives-race-and-justice)<br>
-_digital storytelling and archives, group projects, first year graduates, English_<br>
+  _digital storytelling and archives, group projects, first year graduates, English_<br>
 
 **Instruction**<br>
 Econ GIS<br>
-_GIS based class instruction, upper division undergrad, Econonmics<br>
+  _GIS based class instruction, upper division undergrad, Econonmics<br>
 Hypertexts<br>
-_hypertext creation instruction, multiple diciplines and levels_<br>
+  _hypertext creation instruction, multiple diciplines and levels_<br>
 DH and the Athropocene<br>
-_DH course concepts, methods and tools instruction, graduate and upper divison undergrads, English_<br><br>
+  _DH concepts, methods and tools instruction, graduate and upper divison undergrads, English_<br><br>
 
 ## Mapping Parable of the Sower
 [![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
