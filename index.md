@@ -11,12 +11,12 @@ The following are examples of work I have done in the past, the intent being to 
 {class project, digital collections, upper division undergrads, English/Jewish Studies}<br>
 - [Archives, Race, and Justice](#archives-race-and-justice)<br>
 {class project, digital storytelling and archives, gfirst year graduates, English}<br>
-- Econ GIS<br>
+- Econiomic Geography <br>
 {GIS based class instruction, upper division undergrad, Econonmics}<br>
-- Hypertexts<br>
-{hypertext creation instruction, multiple diciplines and levels}<br>
 - DH and the Athropocene<br>
-{DH concepts, methods and tools instruction, graduate and upper divison undergrads, English}<br><br>
+{DH concepts, methods and tools instruction, graduate and upper divison undergrads, English}<br>
+- Hypertext Creation<br>
+{hypertext creation instruction, multiple diciplines and levels}<br><br>
 
 ## Mapping Parable of the Sower
 [![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
