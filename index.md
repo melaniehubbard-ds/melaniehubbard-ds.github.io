@@ -16,7 +16,7 @@ The following are examples of work I have done in the past, the intent being to 
 - [DH and the Athropocene](#dh-and-the-anthropocene)<br>
 {DH instruction (text analysis, GIS, data structuring, network analysis), graduate and upper divison undergrads, English}<br>
 - [Hypertext Creation](#hypertext-creation)<br>
-{hypertext creation instruction, multiple diciplines and levels}<br><br>
+{hypertext creation instruction, levels and diciplines}<br><br>
 
 ## Mapping Parable of the Sower
 [![Parable of the Sower](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Knight Lab StoryMap")
