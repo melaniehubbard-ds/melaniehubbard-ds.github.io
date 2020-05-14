@@ -15,7 +15,7 @@ The following are examples of work I have done in the past, the intent being to 
 {GIS based class instruction, upper division undergrad, Econonmics}<br>
 - Hypertexts<br>
 {hypertext creation instruction, multiple diciplines and levels}<br>
--DH and the Athropocene<br>
+- DH and the Athropocene<br>
 {DH concepts, methods and tools instruction, graduate and upper divison undergrads, English}<br><br>
 
 ## Mapping Parable of the Sower
