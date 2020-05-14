@@ -5,7 +5,7 @@ The following are examples of work I have done in the past, the intent being to 
 
 **Class Projects**<br>
 [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>
-  _basic mapping, class wide project, lower division undergrads_<br>
+  basic mapping, class wide project, lower division undergrads<br>
 [Watts Collection](#watts-collection)<br>
   _digital collections, group projects, first year graduates, English_<br>
 [The Shanghai Jewish Experience](#the-shanghai-jewish-experience)<br>
@@ -15,7 +15,7 @@ The following are examples of work I have done in the past, the intent being to 
 
 **Instruction**<br>
 Econ GIS<br>
-  _GIS based class instruction, upper division undergrad, Econonmics<br>
+  _GIS based class instruction, upper division undergrad, Econonmics_<br>
 Hypertexts<br>
   _hypertext creation instruction, multiple diciplines and levels_<br>
 DH and the Athropocene<br>
