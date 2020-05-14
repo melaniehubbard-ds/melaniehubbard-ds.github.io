@@ -78,8 +78,8 @@ Written description.......................
 
 Written description..........................
 
-- [Class website)(https://dh-anthropocene.english.lmu.build/)
-- [Syllabus[(https://dh-anthropocene.english.lmu.build/wp-content/uploads/2019/03/ENGL5998-DH-S19-update10.pdf)
+- [Class website](https://dh-anthropocene.english.lmu.build/)
+- [Syllabus](https://dh-anthropocene.english.lmu.build/wp-content/uploads/2019/03/ENGL5998-DH-S19-update10.pdf)
 
 < [Return to TOC](#table-of-contents)
 
@@ -89,7 +89,8 @@ Written description..........................
 
 Written description..........................
 
-- item
-- item
+- [Website creation slides](https://drive.google.com/file/d/1YE7zwMXGVX1PBASBsaFRZmsAIjxuXhTi/view?usp=sharing)
+- [History class information organization and classification slides](https://drive.google.com/file/d/1OkzCDa7YxS0h6O908qjHmK5cJYZCV7ct/view?usp=sharing)
+- [Texts as technology slides] (https://drive.google.com/file/d/1AhjCPPJtbYi3cnpabq_jhBzUbI3n3TYY/view?usp=sharing)
 
 < [Return to TOC](#table-of-contents)
