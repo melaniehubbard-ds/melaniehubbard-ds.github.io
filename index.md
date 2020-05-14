@@ -21,7 +21,7 @@ The purpose of this resource is to help us have conversations about the kind of 
 {hypertext creation instruction, multiple levels and diciplines}<br><br>
 
 ## Mapping Parable of the Sower
-[![Parable of the Sower project](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Parable of the Sower project video")
+[![Parable of the Sower project](http://img.youtube.com/vi/e5y8ZPyR-v8/0.jpg)](http://www.youtube.com/watch?v=e5y8ZPyR-v8 "Parable of the Sower project video")<br>
 {class project, basic mapping, lower division undergrads, English}
 
 This basic mapping project used Knightlab's StoryMap. The class worked together on one map to chart and describe the main character's journey across California. There was a significant visual component, and the process of creating the project forced students to read the text much more closely. 
@@ -33,7 +33,7 @@ This basic mapping project used Knightlab's StoryMap. The class worked together 
 < [Return to TOC](#table-of-contents)
 
 ## Watts Collection
-[![Watts Collection project](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection project video")
+[![Watts Collection project](http://img.youtube.com/vi/eKFaW0puXWI/0.jpg)](http://www.youtube.com/watch?v=eKFaW0puXWI "Watts Collection project video")<br>
 {class project, digital collections, first year graduates, English}
 
 This project involved creating a digital collection using materials from the Southern California Library, a community archive in South Los Angeles. The most significant technical aspect was metadata creation. The library's director, Yusef Omawale, asked that the metadata be for the community and not academics. We used literature, meeting with people at the library, and class speakers to help prepare the students for the process.
@@ -46,7 +46,7 @@ This project involved creating a digital collection using materials from the Sou
 < [Return to TOC](#table-of-contents)
 
 ## The Shanghai Jewish Experience
-[![Shanghai Jewish Experience project](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience assignment video")
+[![Shanghai Jewish Experience project](http://img.youtube.com/vi/2t2i3oknjUI/0.jpg)](http://www.youtube.com/watch?v=2t2i3oknjUI "Shanghai Jewish Experience assignment video")<br>
 {class project, digital collections, upper division undergrads, English/Jewish Studies}
 
 This project involved students using LMU's Werner von Boltenstern Shanghai Photograph and Negative Collection to create digital resources that bring light to the life of Jewish refugees in 1930s-1940s Shanghai. The technology aspect was relatively simple to give students plenty of time to conduct extensive the research that was required. 
@@ -58,7 +58,7 @@ This project involved students using LMU's Werner von Boltenstern Shanghai Photo
 < [Return to TOC](#table-of-contents)
 
 ## Archives, Race, and Justice
-[![Archives, Race, and Justice project](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice project video")
+[![Archives, Race, and Justice project](http://img.youtube.com/vi/9tGOoccpCOI/0.jpg)](http://www.youtube.com/watch?v=9tGOoccpCOI "Archives, Race, and Justice project video")<br>
 {class project, digital storytelling and archives, gfirst year graduates, English}
 
 This project was created for the Southern California Library, a community archive in South Los Angeles. Their primary need was to have online materials that help the public understand the kind of collections they have and how to engage with them.
@@ -70,7 +70,7 @@ This project was created for the Southern California Library, a community archiv
 < [Return to TOC](#table-of-contents)
 
 ## Economic Geography
-[![Economic Geography class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Economic Geography class instrution video")
+[![Economic Geography class](http://img.youtube.com/vi/paRwqOgDd-o/0.jpg)](http://www.youtube.com/watch?v=paRwqOgDd-o "Economic Geography class instrution video")<br>
 {GIS class instruction, upper division undergrad, Econonmics}
 
 Economic Geography was a class I took over when a professor had to go on sick leave. In the video, I explain how I dealt with the situation and the final project I designed.
@@ -81,7 +81,8 @@ Economic Geography was a class I took over when a professor had to go on sick le
 
 ## DH and the Anthropocene
 
-[![DH and the Anthropocene](http://img.youtube.com/vi/y3yrxequoYE/0.jpg)](http://www.youtube.com/watch?v=y3yrxequoYE "DH and the Anthropocene instruction video")
+[![DH and the Anthropocene](http://img.youtube.com/vi/y3yrxequoYE/0.jpg)](http://www.youtube.com/watch?v=y3yrxequoYE "DH and the Anthropocene instruction video")<br>
+{intro to DH instruction (text analysis, GIS, data structuring, network analysis), graduate and upper divison undergrads, English}
 
 DH and the Anthropocene was a class I codesigned and cotaught with an English professor. The video provides some context and an overview, while the website offers more detailed information, including assignments. 
 
@@ -92,7 +93,8 @@ DH and the Anthropocene was a class I codesigned and cotaught with an English pr
 
 
 ## Hypertext Creation
-[![Hypertext creation](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts creation instruction video")
+[![Hypertext creation](http://img.youtube.com/vi/NnDs07u9tvI/0.jpg)](http://www.youtube.com/watch?v=NnDs07u9tvI "Hypertexts creation instruction video")<br>
+{hypertext creation instruction, multiple levels and diciplines}
 
 In this video, I explain ways I teach about hypertext creation, e.g., websites, Scalar projects, and digital exhibits. Most importantly, I talk about the intellectual knowledge librarians bring to this kind of instruction.
 
