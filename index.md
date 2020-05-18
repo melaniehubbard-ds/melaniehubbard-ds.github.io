@@ -3,6 +3,8 @@ The following are examples of work I have done in the past. I have categorized t
 
 The purpose of this resource is to help us have conversations about the kind of work in which you or the faculty you work with might be interested. I made accompanying (rambling) videos to provide more context. Other examples of my work are in [Project CORA](https://www.projectcora.org/users/melanie-hubbard), an assignment repository, and on [ds.lmu.edu](https://ds.lmu.edu/). (Everything under "projects" I worked on. Some of them are quite old and much less impressive.)
 
+Additionally, I have created a [digital pedagogy guide](https://docs.google.com/document/d/1wCrDT8Wvnt7Okshi9vrcEXUOJJC7t65VMW2REmFsngM/edit] (a work in progress), which might be of some help or interest to you.
+
 ## Table of Contents
 
 - [Mapping Parable of the Sower](#mapping-parable-of-the-sower)<br>
